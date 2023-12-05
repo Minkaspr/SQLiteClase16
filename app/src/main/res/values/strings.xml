@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_correo_electronico">Correo electronico:</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+
+    <string name="cd_iv_contacto">Icono de contacto</string>
+    <string name="cd_iv_agregar">Icono de agregar</string>
+    <string name="cd_iv_eliminar">Icono de eliminar</string>
+    <string name="cd_iv_editar">Icono de editar</string>
+</resources>
